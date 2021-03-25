@@ -6,7 +6,7 @@
    <li>My strong combination of design vision/taste plus technical implementation/debugging skills are what sets me apart.</li>
    <li>I like to work with or mentor quick learning people.</li>
    <li>I am an autodidactic life-long learner with multiple interests
-   (software development, technological progress, genetics, human healthcare/medicine,
+   (software development, education, technological progress, genetics, human healthcare/medicine,
     astronomy and astrophysics, mechananical engineering, psychology, space exploration,
     microscopy, music, art, biology, woodworking, etc).</li>
    <li>I am honest with myself, seek truth, and prefer to face reality as it is.</li>
