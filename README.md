@@ -1,5 +1,5 @@
 <ul>
-   <li>I'm a software architect and engineer, currently working in Java.</li>
+   <li>I'm a senior software architect and engineer, currently working in Java.</li>
    <li>I'm passionate about software design+implementation quality and performance.</li>
    <li>I'm passionate about state of the art software development tools.</li>
    <li>I work hard, stay productive, and challenge myself.</li>
