@@ -9,8 +9,8 @@
    (software development, technological progress, genetics, human healthcare/medicine,
     astronomy and astrophysics, mechananical engineering, psychology, space exploration,
     microscopy, music, art, biology, woodworking, etc).</li>
-   <li>I am honest with myself, seek true knowledge, and strive to always face reality as it is.</li>
-   <li>I am perpetually proud of my current work, yet embarassed about code I wrote 5 years ago.</li>
+   <li>I am honest with myself, seek truth, and prefer to face reality as it is.</li>
+   <li>I am perpetually proud of my current work, while also embarassed about code I wrote 5 years ago.</li>
    <li>I compete with my former self while collaborating with others.</li>
    <li>I believe strongly in the importance and value of free software.</li>
    <li>I love Java and want to continue working with it on technically challenging projects.</li>
