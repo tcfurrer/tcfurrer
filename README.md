@@ -1,7 +1,7 @@
-
+<b>
 <p>I'm a senior software architect/engineer, currently working in Java.</p>
 
-<p style="text-align: right">I'm passionate about software design/implementation quality/performance.</p>
+<p>I'm passionate about software design/implementation quality/performance.</p>
    
 <p>I'm passionate about state of the art software development tools.</p>
    
@@ -31,4 +31,4 @@
 <p>I believe strongly in the importance and value of free software.</p>
    
 <p>I love Java and want to continue working with it on technically challenging projects.</p>
-
+</b>
