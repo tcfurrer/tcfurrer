@@ -17,10 +17,10 @@
    
 <p>I like to work with and/or mentor people who learn quickly.</p>
    
-<p>I am an autodidactic life-long learner with multiple interests
-   (software development, education, technological progress, genetics, human healthcare/medicine,
+<p>I am an autodidactic life-long learner with multiple interests:
+   software development, education, technological progress, genetics, human healthcare/medicine,
     astronomy and astrophysics, mechananical engineering, psychology, space exploration, agriculture,
-    microscopy, music, art, biology, woodworking, etc).</p>
+    microscopy, music, art, biology, woodworking, etc.</p>
     
 <p>I am honest with myself, seek truth, and prefer to face reality as it is.</p>
    
