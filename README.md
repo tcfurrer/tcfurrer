@@ -1,5 +1,5 @@
 
-<p>I'm a senior software architect and engineer, currently working in Java.</p>
+<p>I'm a senior software architect/engineer, currently working in Java.</p>
 
 <p>I'm passionate about software design/implementation quality/performance.</p>
    
