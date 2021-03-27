@@ -18,8 +18,8 @@
 <p>I like to work with and/or mentor people who learn quickly.</p>
    
 <p>I am an autodidactic life-long learner with multiple interests:
-   software development, education, technological progress, genetics, human healthcare/medicine,
-    astronomy/astrophysics/physics, mechananical engineering, psychology, space exploration, agriculture,
+   software development, technological progress, genetics, human healthcare, medicine,
+    space exploration, astronomy, mechananical engineering, psychology, education, agriculture,
     woodworking, music, art, biology, microscopy.</p>
     
 <p>I am honest with myself, seek truth, and prefer to face reality as it is.</p>
