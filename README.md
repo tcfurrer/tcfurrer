@@ -1,5 +1,5 @@
 <b>
-<p align="left">I'm a senior software architect/engineer, currently working in Java.</p>
+<p align="left">I'm a senior software architect/engineer, "all-in" on Java.</p>
 
 <p align="center">I'm passionate about software design/implementation quality/performance.</p>
    
